@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Spark runtime junk
+derby.log
+metastore_db/
+spark-warehouse/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
