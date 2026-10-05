@@ -23,12 +23,6 @@ Day 000 is a fully worked example — start there.
 - Stuck for >30 minutes? Read the hints in the challenge README, then move on —
   come back to it on a review day.
 
-## The green squares
-
-Every committed solution lands on your contribution graph — that's GitHub
-recognizing real work. The graph is a side effect, not the target: what matters
-is that in 30 days you can dedup, clean, join, window and aggregate in your
-sleep. Don't game it (empty commits, backdating) — it only fools you.
 
 ## Setup
 
